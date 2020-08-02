@@ -1,2 +1,3 @@
 # WebScraperFarmacia
-Web Scraper para obtener informacion complementaria de productos de una farmacia
+
+Este es un proyecto rápido que se hizo para complementar información sobre una farmacia en la que era necesario obtener una agrupación de una gran cantidad de productos, usándola con fines analíticos.

@@ -4,6 +4,7 @@ Este es un proyecto rápido que se hizo para complementar información sobre una
 
 El proceso toma como argumento desde la consola:
 
-    1) La ruta del driver a utilizar(Está hecho para chromium, es decir, google chrome, pero puede ser adaptado a cualquier navegador modificando un poco el código)
-    2) La ruta de la página web de la farmacia.
+    -La ruta del driver a utilizar(Está hecho para chromium, es decir, google chrome, pero puede ser adaptado a cualquier navegador modificando un poco el código)
+    
+    -La ruta de la página web de la farmacia.
 
